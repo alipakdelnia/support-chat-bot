@@ -43,7 +43,7 @@ function App() {
   return (
     <div className="chat-app">
       <div className="chat-header">
-        <h2>چت آنلاین</h2>
+        <h2>پشتیبانی آنلاین</h2>
       </div>
       <div className="chat-messages">
         {messages.map((message) => (
