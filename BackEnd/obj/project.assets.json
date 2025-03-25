@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer\\ChatServer.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer.csproj",
       "projectName": "ChatServer",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer\\ChatServer.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -144,13 +144,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

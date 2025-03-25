@@ -1,18 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cwc2nsyU2Mk=",
+  "dgSpecHash": "tiJR00MHxLc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer\\ChatServer.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  "logs": []
 }

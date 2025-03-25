@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer\\ChatServer.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer\\ChatServer.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer\\ChatServer.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer.csproj",
         "projectName": "ChatServer",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer\\ChatServer.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\ChatServer\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\support-chat-bot\\BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
